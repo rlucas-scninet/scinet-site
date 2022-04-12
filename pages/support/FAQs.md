@@ -236,7 +236,7 @@ The table below summarizes the relevant GNU compiler names and command line flag
 As a result of the current networking infrastructure, working at the command line can be difficult sometimes because displaying hundreds of lines freezes the display. The solution to this is to enable SSH compression. There are a few different ways to do ssh using compression: do  ```ssh -C```  from the command line; or instead of ssh in Putty, click on SSH on the left, then check Enable Compression In Unix; or alter your ~/.ssh/config file to contain these lines:
 
 ```
-Host login.scinet.science  
+Host ceres.scinet.usda.gov  
 Compression yes
 ```
 
@@ -245,7 +245,7 @@ On Linux or Mac OS just create or add the following to a ~/.ssh/config file. If 
 
 ```
 Host ceres
-HostName login.scinet.science
+HostName ceres.scinet.usda.gov
 User  ForwardAgent yes
 ForwardX11 yes
 TCPKeepAlive yes
@@ -258,7 +258,7 @@ That will send a "keepalive" signal every 20 seconds and keep retrying for up to
 If you don't want to use the config file method you can just add these options to the ssh command:
 
 ```
-ssh -o TCPKeepAlive=yes -o ServerAliveInterval=20 -o ServerAliveCountMax=30 @login.scinet.science -XA
+ssh -o TCPKeepAlive=yes -o ServerAliveInterval=20 -o ServerAliveCountMax=30 @ceres.scinet.usda.gov -XA
 ```
 
 Using PuTTY on windows you can do the same via the Connections tab. Set the "Seconds between keepalives" to 20 and check the "Enable TCP keepalives"
