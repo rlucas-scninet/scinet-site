@@ -24,6 +24,8 @@ primary:
 #       href: /about/networking
       - text: Organization
         href: /about/organization
+      - text: Policies
+        href: /about/policies
       - text: Contact
         href: /about/contact
   - text: News
@@ -63,8 +65,8 @@ primary:
         href: /guide/file-transfer
       - text: Rclone
         href: /guide/rclone
-#      - text: CLC Workbench
-#        href: /guide/clc
+      - text: CLC Workbench
+        href: /guide/clc
       - text: Jupyter
         href: /guide/jupyter
       - text: Rstudio
@@ -83,6 +85,8 @@ primary:
 #        href: /guide/linuxintroduction
       - text: SCINet VPN
         href: /guide/vpn
+      - text: Ceres Open OnDemand
+        href: /guide/ceres_ood
   - text: Working Groups
     links:
       - text: Overview
