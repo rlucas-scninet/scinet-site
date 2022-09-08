@@ -49,8 +49,8 @@ primary:
       - text: Atlas HPC User Guide
         href: https://www.hpc.msstate.edu/computing/atlas
         external: true
-      - text: Transitioning from Ceres to Atlas
-        href: /guide/ceres2atlas
+      - text: DIfferences Between Ceres and Atlas
+        href: /guide/CeresAtlasDifferences
       - text: Set up multifactor authentication
         href: /guide/multifactor
       - text: SCINet Storage Guide
