@@ -1,6 +1,6 @@
 ---
 title: From Ceres To Atlas
-description: A guide to the differences between the Ceres cluster and  Atlas clusters
+description: A guide to the differences between the Ceres cluster and the Atlas cluster
 permalink: /guide/CeresAtlasDifferences
 author: Marina Kraeva
 layout: page
