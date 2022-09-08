@@ -1,7 +1,7 @@
 ---
 title: From Ceres To Atlas
-description: Guide to transitioning from Ceres cluster to Atlas cluster
-permalink: /guide/ceres2atlas/
+description: A guide to the differences between the Ceres cluster and the Atlas cluster
+permalink: /guide/CeresAtlasDifferences
 author: Marina Kraeva
 layout: page
 ---
