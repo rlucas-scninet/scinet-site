@@ -49,7 +49,7 @@ primary:
       - text: Atlas HPC User Guide
         href: https://www.hpc.msstate.edu/computing/atlas
         external: true
-      - text: DIfferences Between Ceres and Atlas
+      - text: Differences Between Ceres and Atlas
         href: /guide/CeresAtlasDifferences
       - text: Set up multifactor authentication
         href: /guide/multifactor
