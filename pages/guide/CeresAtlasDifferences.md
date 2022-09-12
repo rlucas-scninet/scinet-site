@@ -1,5 +1,5 @@
 ---
-title: Differences betweeen Ceres and Atlas
+title: Differences between Ceres and Atlas
 description: A guide to the differences between the Ceres cluster and the Atlas cluster
 permalink: /guide/CeresAtlasDifferences
 author: Marina Kraeva
