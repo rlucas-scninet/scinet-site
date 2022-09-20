@@ -17,7 +17,7 @@ layout: page
 Software | information
 ---|---
 Galaxy Server | SCINet Runs its own [Galaxy Server](https://galaxy.scinet.usda.gov).  Galaxy is an open source, web-based platform for data intensive bioinformatic research.
-[CLC Workbench](/guide/clc/) | SCINet has a license key to CLC Workbench
+[CLC Server](/guide/clc/) | SCINet has a license key to [CLC Server](https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/enterprise-ngs-solutions/qiagen-clc-genomics-server/)
 [Geneious](/guide/geneious) |SCINet has a license key to Geneious
 [Rstudio](/guide/rstudio) | SCINet runs a R studio Server
 Jupyter |  [Project Jupyter](https://jupyter.org/) notebooks, Lab, and Hub can be run on Ceres
