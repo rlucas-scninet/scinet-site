@@ -22,7 +22,7 @@ layout: page
 
 **Password Expiration:**  
 
-:  SCINet passwords expire
+:  SCINet passwords expire every 60 days. 
 
 **Multi-factor authentication (MFA)**  
 
@@ -34,7 +34,7 @@ layout: page
 
 **Account Deactivation:**  
 
-:  SCINet accounts are subject to deactivation.  Collaborator (Non-ARS) accounts expire.
+:  SCINet accounts are subject to deactivation.  Collaborator (Non-ARS) accounts expire. Accounts are deactivated after 1 year of inactivity. At that time, you must re-apply for a user account. 
 
 **Re-establishing account:**  
 
@@ -47,7 +47,7 @@ layout: page
 
 **Home Directories:**  
 
-:  Home directory quota on all HPC clusters is automatically granted to all SCINet user accounts.  You have space by default as a user, but you can request Project Allocation.
+:  Home directory quota of 10G on all HPC clusters is automatically granted to all SCINet user accounts.  You have space by default as a user, but you can request Project Allocation.
 
    * Project Allocation Request: A [SCINet Project Allocation Request](/support/request-storage#to-request-a-quota-increase-for-an-existing-scinet-project-allocation) form must be submitted by the project's Principal Investigator (PI).
 
