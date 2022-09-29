@@ -71,6 +71,8 @@ SCINet is the USDA-ARS's initiative for scientific computing. It consists of:
 
 Users who are new to the HPC environment may benefit from the [SCINet/Ceres onboarding video](https://www.youtube.com/watch?v=FspDMlHaJUY) which covers most of the material contained in this guide. Note that /KEEP storage discussed in the video at 16:20 is no longer available. Instead data that cannot be easily reproduced should be manually backed up to [Juno](https://scinet.usda.gov/guide/storage/#juno-archive-storage). The instructional video at [https://www.youtube.com/watch?v=I3lnsCAfx3Q](https://www.youtube.com/watch?v=I3lnsCAfx3Q) demonstrates how to transfer files between local computer, Ceres, Atlas and Juno using Globus.
 
+For additional assistance with changing your password, this [video](https://youtu.be/Amhw2k5mftI) provides an in depth demonstration. 
+
 # Set Up Multi-Factor Authentication
 
 For security, SCINet requires multifactor authentication. See the setup instructions in the [Multi-Factor Authentication User Guide](/guide/multifactor/).
