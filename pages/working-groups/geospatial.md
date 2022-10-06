@@ -22,6 +22,12 @@ If you would like to join the group, please contact Heather Savoy to be added to
 Heather Savoy | SCINet Computational Biologist (Data Scientist) 
 John Humphreys | Research Ecologist
 
+## Geospatial Workbook
+This working group contributes content to the 
+[Geospatial Workbook](https://geospatial.101workbook.org), a site dedicated to
+providing practical geospatial tutorials for SCINet users. Tutorials
+from our previous workshops and other meetings are available there for general use.
+
 
 ## Workshops
 
