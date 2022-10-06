@@ -70,7 +70,7 @@ Select Scan a barcode. If the Authenticator app cannot locate a barcode scanner 
 
 ### Link phone manually with a GA key
 
-Select Enter a provided key, then Enter account name, which is \<your SCINet username>@ceres. Next, enter the Google Authenticator key from the "Welcome to Ceres" email into the box under Enter Key. Make sure you've chosen to make the key time-based and press "Save."
+Select Enter a provided key, then Enter account name, which is \<your SCINet username>@ceres. Next, enter the Google Authenticator key from the "Welcome to SCINet" email into the box under Enter Key. Make sure you've chosen to make the key time-based and press "Save."
 
 ![screenshot of Google Authenticator Android app Enter Account Details screen](/assets/img/mfa-guide/Screenshot_20191029-105940-w300.png)
 
@@ -114,11 +114,11 @@ There are two ways to link your device to your account. Using a QR code is easie
 
 ### Link phone using QR code
 
-Tap "Scan Barcode" (label 2a above) and then point your camera at the QR code on your computer screen (click on the link in the "Welcome to Ceres" email to access QR code).
+Tap "Scan Barcode" (label 2a above) and then point your camera at the QR code on your computer screen (click on the link in the "Welcome to SCINet" email to access QR code).
 
 ### Link phone manually with a GA key
 
-In the box next to Account (label 2b above), enter your account name, which is \<your SCINet username>@ceres . Then, enter the Google Authenticator key from the "Welcome to Ceres" email into the box next to "Key" (label 2c above) and tap "Done" (label 2d above).
+In the box next to Account (label 2b above), enter your account name, which is \<your SCINet username>@ceres . Then, enter the Google Authenticator key from the "Welcome to SCINet" email into the box next to "Key" (label 2c above) and tap "Done" (label 2d above).
 
 ### Verify
 
@@ -154,7 +154,7 @@ After making your choice a code will be shown and you should receive a call or a
 
 You are now setup and can add your SCINet GA key to Authy.
 
-To do so click the red "+" in the Authy app and enter the key from the email you received titled "Welcome to Ceres".
+To do so click the red "+" in the Authy app and enter the key from the email you received titled "Welcome to SCINet".
 
 You will need to enter the key from the email since Authy cannot use QR codes.
 
