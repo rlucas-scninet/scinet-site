@@ -22,7 +22,7 @@ layout: page
 
 **Password Expiration:**  
 
-:  SCINet passwords expire
+:  SCINet passwords expire every 60 days. 
 
 **Multi-factor authentication (MFA)**  
 
@@ -34,7 +34,7 @@ layout: page
 
 **Account Deactivation:**  
 
-:  SCINet accounts are subject to deactivation.  Collaborator (Non-ARS) accounts expire.
+:  SCINet accounts are subject to deactivation.  Collaborator (Non-ARS) accounts expire. Accounts are deactivated after 1 year of inactivity. At that time, you must re-apply for a user account. 
 
 **Re-establishing account:**  
 
@@ -47,7 +47,7 @@ layout: page
 
 **Home Directories:**  
 
-:  Home directory quota on all HPC clusters is automatically granted to all SCINet user accounts.  You have space by default as a user, but you can request Project Allocation.
+:  Home directory quota of 10G on all HPC clusters is automatically granted to all SCINet user accounts.  You have space by default as a user, but you can request Project Allocation.
 
    * Project Allocation Request: A [SCINet Project Allocation Request](/support/request-storage#to-request-a-quota-increase-for-an-existing-scinet-project-allocation) form must be submitted by the project's Principal Investigator (PI).
 
@@ -82,3 +82,9 @@ layout: page
    *  A [Galaxy](https://galaxyproject.org/) web-based graphical workflow management system is available to all SCINet users. This is accessible via SCINet login credentials at [https://galaxy.scinet.usda.gov](https://galaxy.scinet.usda.gov).
    *  Public-facing websites are currently not available from SCINet.
 
+**Data Retention:** Upon SCINet account deactivation (see Accounts section), the following data retention policies go into effect for files owned by the deactivated SCINet user:
+- Home directory: supervisor (non-ARS: ARS sponsor) will be given access by the VRSC and required to take action within 90 days to preserve any files
+- Project directories:
+	- If there are no other active users on the project, the supervisor will be required to take action within 90 days
+	- If there are active users on the project, and the deactivated user was the project PI (requestor), then the supervisor must select another PI
+	- If there are active users on the project, and the deactivated user was not the project PI, then no further action need be taken
