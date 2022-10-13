@@ -1,7 +1,7 @@
 ---
 title: Geneious Software Guide
 description: Geneious Software Use Guide
-permalink: /guide/geneious/
+permalink: /guide/geneious
 author: VRSC
 layout: page
 # sidenav:  is a side navigation bar is needed it can be specified in the _data/navigation.yml file
@@ -10,12 +10,12 @@ layout: page
 
 Ceres no longer has Geneious Server. The developer has discontinued that product.
 
-Ceres does provide floating licenses for Geneiius Prime which is the desktop client.  
+Ceres does provide floating licenses for Geneious Prime which is the desktop client.  
 
 
 Caveats:
 * The floating license server will only work at USDA sites or via VPN due to firewall restrictions.
-* The Geneious Prime  license server should work through both the regular USDA VPN and the SCINet ocvpn vpn servers. 
+* The Geneious Prime license server should work through both the regular USDA VPN and the SCINet ocvpn vpn servers. 
 * If you do encounter license server issues let us know at [scinet_vrsc@usda.gov](mailto:scinet_vrsc@usda.gov)
 
 
