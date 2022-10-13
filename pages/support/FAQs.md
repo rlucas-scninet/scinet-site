@@ -195,7 +195,7 @@ Go to [galaxy.scinet.usda.gov](https://galaxy.scinet.usda.gov/). Enter your emai
 Please submit software install request at https://e.arsnet.usda.gov/sites/OCIO/scinet/Pages/SCINet-New-Application.aspx and check next to Galaxy Application.
 
 ### How much data can I store on Ceres?
-Each user is allowed 5GB of data in the home directory. 
+Each user is allowed 10GB of data in the home directory. 
 
 Additional storage can be provided on Ceres and/or Atlas in /project directories. To request more storage see [How do I request an increase in storage space?](#how-do-i-request-an-increase-in-storage-space). Project directory storage is large, fast, not backed up, and can be requested up to 1TB or larger if justified. Project directory storage is good for fast I/O to large data files from compute nodes. Keep directory storage is smaller and slower, but is backed up nightly and can be requested up to 100GB or larger if justified. Keep directory storage is good for medium-term storage of analysis results and project software/scripts.   
 
