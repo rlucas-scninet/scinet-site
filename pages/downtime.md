@@ -18,6 +18,7 @@ The table below lists information about planned SCINet outages. See [SCINet Foru
 
 | Outage Date | System | Affected Locations | Reason |
 |---|---|---|---|
+| 2/20/2023-2/23/2023 | Ceres | All (Ceres offline) | maintenance |
 | 10/10/2022-10/11/2022 | Ceres | All (Ceres offline) | maintenance |
 | 06/20-21/2022 | Ceres | All (Ceres offline) | maintenance |
 | 05/17/2022 | Atlas | All (connections to Atlas) | Maintenance |
