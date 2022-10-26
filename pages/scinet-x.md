@@ -28,7 +28,7 @@ sticky_element: true
 The ARS SCINet Team developed a SCINet network solution that provides two levels of high-bandwidth services to meet the different needs of research locations.  These solutions will accelerate the expansion of high-bandwidth SCINet connectivity to all ARS locations as fast as possible while balancing economic, technological, and local constraints.  The SCINet-X project involves the SCINet Team working with each individual location in ARS to directly connect the location to SCINet.  The following locations that are actively working on establishing high-bandwidth SCINet connectivity. 
 
 
-| Kimberly, ID | Hilo, HI | Parlier, WA |
+| Kimberly, ID | Kerrville, TX | Parlier, WA |
 | Pendleton, OR | Wenatchee, WA | Burns, OR |
 | Manhattan, KS | Lubbock, TX | Bushland, TX |
 | Grand Forks, ND | Mandan, ND | Lincoln, NE |
