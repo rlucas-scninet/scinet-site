@@ -35,25 +35,30 @@ The ARS SCINet Team developed a SCINet network solution that provides two levels
 | Orono, ME | Auburn, AL | Baton Rouge, LA | Booneville, AR | Byron, GA | 
 | Canal Point, FL | Charleston, SC | Dawson, GA | Fayetteville, AR | Gainesville, FL |
 | Houma, LA | Jonesboro, AR | Mayaguez, PR | Miami, FL | Oxford, MS |
-| Poplarville, AR | Raleigh, NC | Starkville, MS |
+| Poplarville, AR | Raleigh, NC | Starkville, MS |||
 
 
 The following locations have completed implementation of their high-bandwidth SCINet connectivity. 
 
 
 Pacific West Area 
+
 | Hilo, HI | Logan, UT | Maricopa, AZ |
 
 Plains Area
+
 | Fargo, ND | Grand Forks, ND | Kerrville, TX |
 
 Midwest Area
+
 | Columbia, MO | Madison, WI | St. Paul, MN |
 
 Northeast Area
+
 | Boston, MA | Wyndmoor, PA |
 
 Southeast Area
+
 | Athens, GA | Florence, SC | New Orleans, LA | Tifton, GA |
 
 
