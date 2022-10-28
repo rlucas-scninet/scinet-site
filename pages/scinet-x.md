@@ -25,7 +25,7 @@ sticky_element: true
 
 ## Overview of the SCINet-X Project
 
-The ARS SCINet Team developed a SCINet network solution that provides two levels of high-bandwidth services to meet the different needs of research locations.  These solutions will accelerate the expansion of high-bandwidth SCINet connectivity to all ARS locations as fast as possible while balancing economic, technological, and local constraints.  The SCINet-X project involves the SCINet Team working with each individual location in ARS to directly connect the location to SCINet.  The following locations that are actively working on establishing high-bandwidth SCINet connectivity. 
+The ARS SCINet Team developed a SCINet network solution that provides two levels of high-bandwidth services to meet the different needs of research locations.  These solutions will accelerate the expansion of high-bandwidth SCINet connectivity to all ARS locations as fast as possible while balancing economic, technological, and local constraints.  The SCINet-X project involves the SCINet Team working with each individual location in ARS to directly connect the location to SCINet.  The following locations are actively working on establishing high-bandwidth SCINet connectivity. 
 
 
 | Kimberly, ID | Parlier, WA | Pendleton, OR | Salinas, CA | Wenatchee, WA | 
