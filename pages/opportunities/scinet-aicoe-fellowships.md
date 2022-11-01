@@ -1,5 +1,5 @@
 ---
-title: ARS SCINet and AI Center of Excellence Postdoctoral Fellows Program (FY2022)
+title: ARS SCINet and AI Center of Excellence Postdoctoral Fellows Program (FY2023)
 description: Internal USDA-ARS funding for SCINet and AI-COE postdoctoral fellowships.
 permalink: /opportunities/scinet-aicoe-fellowships
 author: Brian Stucky 
@@ -9,17 +9,11 @@ layout: page
 
 ## Overview
 
-In 2022, the SCINet Program in collaboration with the Artificial Intelligence Center of Excellence (AI-COE) provided funding to support 19 new postdoctoral fellows to be mentored by ARS scientists. 
-
-An 8-member panel composed of ARS scientists and National Program Leaders recently evaluated 64 proposals submitted by ARS scientist. Eight were selected for funding by SCINet, and 11 for funding by the AI-COE. These fellows will join our current group of fellows to result in nearly 30 fellows in our fellowship program.
-
-The goal of the fellowship program is to develop the next generation of ARS scientists with expertise in conducting and leading individual and collaborative research using computationally-intensive approaches. 
+The SCINet Program in collaboration with the Artificial Intelligence Center of Excellence (AI-COE) is calling for porposals for funding to support postdoctoral fellows to be mentored by ARS scientists. The goal of the fellowship program is to develop the next generation of ARS scientists with expertise in conducting and leading individual and collaborative research using computationally-intensive approaches. 
 
 Each fellow is expected to participate in four types of activities: (1) individual computationally-intensive research with the mentor, (2) collaborative research with multiple ARS units, (3) co-leadership of a SCINet or AI COE working group, and (4) coordination of the Fellows Program. In addition, each fellow will have the opportunity to take advantage of training courses that build computational literacy, such as in data science, AI, bioinformatics, and geospatial analyses on our high performance computing clusters (Ceres, Atlas).
 
-We congratulate the 19 ARS scientists who submitted successful proposals, and look forward to the exciting and impactful research to be conducted by the fellows, their mentors, and the collaborative working groups. 
-
-We expect to have another funding opportunity in FY23 so watch for that announcement in late 2022.
+The call for porposals is now open. The deadline for proposal submission is Friday, December 23, 2022. Please visit https://forms.office.com/g/ULtMeH9Kp9 for detailed instructions.
 
  
 
