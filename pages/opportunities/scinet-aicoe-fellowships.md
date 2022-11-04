@@ -9,11 +9,11 @@ layout: page
 
 ## Overview
 
-The SCINet Program in collaboration with the Artificial Intelligence Center of Excellence (AI-COE) is calling for porposals for funding to support postdoctoral fellows to be mentored by ARS scientists. The goal of the fellowship program is to develop the next generation of ARS scientists with expertise in conducting and leading individual and collaborative research using computationally-intensive approaches. 
+The SCINet Program in collaboration with the Artificial Intelligence Center of Excellence (AI-COE) is calling for proposals for funding to support postdoctoral fellows to be mentored by ARS scientists. The goal of the fellowship program is to develop the next generation of ARS scientists with expertise in conducting and leading individual and collaborative research using computationally-intensive approaches. 
 
 Each fellow is expected to participate in four types of activities: (1) individual computationally-intensive research with the mentor, (2) collaborative research with multiple ARS units, (3) co-leadership of a SCINet or AI COE working group, and (4) coordination of the Fellows Program. In addition, each fellow will have the opportunity to take advantage of training courses that build computational literacy, such as in data science, AI, bioinformatics, and geospatial analyses on our high performance computing clusters (Ceres, Atlas).
 
-The call for porposals is now open. The deadline for proposal submission is Friday, December 23, 2022. Please visit https://forms.office.com/g/ULtMeH9Kp9 for detailed instructions.
+The call for proposals is now open. The deadline for proposal submission is Friday, December 23, 2022. Please visit https://forms.office.com/g/ULtMeH9Kp9 for detailed instructions.
 
  
 
