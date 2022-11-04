@@ -50,7 +50,7 @@ The proposal text and budget justification should be submitted as PDF documents 
  
 **Deadline for proposal submission:** Close of business on Friday, December 23, 2022.
  
-**Eligibility:** ARS Category 1, 4, or 6 scientists with RL or supervisor approval.
+**Eligibility:** ARS Category 1, 4, or 6 scientists with RL or supervisor approval.  Please note that FY22 AI Innovation Fund awardees will not be eligible for an FY23 award.
  
 **Submission form:** All proposals must be submitted online at [https://forms.office.com/g/c6s4AR7BnG](https://forms.office.com/g/c6s4AR7BnG)).
  
